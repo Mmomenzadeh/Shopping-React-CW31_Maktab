@@ -1,0 +1,21 @@
+.cardContainer{
+   width: 300px;
+   height: 470px;
+}
+
+.img img{
+    width: 300px;
+    height: 383px;
+}
+
+.cardContainer p{
+    padding: 16px 0;
+    text-align: center;
+}
+
+.wrapper_price_btn{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 1rem;
+    align-items: center;
+}

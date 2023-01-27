@@ -1,0 +1,31 @@
+.container_basketItem{
+    display: flex;
+    width: 300px;
+    height: 100px;
+    gap: 0.5rem;
+}
+
+.basketItem_img img{
+    width: 50px;
+    height: 63px;
+}
+
+.basketItem_content{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.wraper_basketItem_price_removeBtn{
+    display: flex;
+    gap: 0.5rem;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 2rem;
+}
+
+.removeBtn{
+    padding: 0.5rem;
+    border: none;
+
+}

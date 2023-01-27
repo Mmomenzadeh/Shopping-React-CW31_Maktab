@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.hederContainer{
+    display: flex;
+    align-items: center;
+    padding: 1.5rem 1rem;
+}
+.header_left{
+    width: 70vw;
+    margin: 0 2rem;
+    padding: 1.5rem 0;
+    font-size: 0.9rem;
+    letter-spacing: 1px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid gray;
+}
+
+.productCount span{
+    margin-right: 0.5rem;
+}
+
+.header_right{
+    width: 25vw;
+    text-align: center;
+    padding: 1.5rem 0;
+    border-bottom: 1px solid gray;
+
+}
